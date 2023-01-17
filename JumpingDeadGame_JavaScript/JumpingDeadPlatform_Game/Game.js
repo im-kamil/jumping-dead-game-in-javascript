@@ -126,7 +126,7 @@ const LEVEL_ENEMIES = [ //The y2 variable dictates how high up the unit starts
     name: 'ScarletStabber',
     width: 70,
     height: 60,
-    y2: 185
+    y2: 185 
   }]
 ];
 
